@@ -19,6 +19,7 @@ window.onload = () => {
   let groupCount = 0
   let columnMaxCount
   let rowMaxCount
+  let isAllDCare;
   const createTable = document.getElementById(`createTable`)
   createTable.addEventListener(`click`, () => {
     const inputTag = document.getElementById(`degree`)
