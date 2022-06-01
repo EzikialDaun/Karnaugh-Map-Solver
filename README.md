@@ -1,2 +1,2 @@
 # Karnaugh-Map-Solver
-Karnaugh Map Solver with JS 2 ~ 4 variables
+Karnaugh Map Solver based on JS. 2 ~ 4 variables available.
